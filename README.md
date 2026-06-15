@@ -1,8 +1,7 @@
 # otveto-reviews-skill
 
 Claude Code skill для анализа отзывов маркетплейсов (Wildberries / Ozon) через
-API Ответо (app.otveto.ru) — по образцу
-[mpstats-io/claude-code-skills](https://github.com/mpstats-io/claude-code-skills).
+API Ответо (app.otveto.ru).
 
 Скилл достаёт данные раздела «Анализ отзывов»: магазины продавца, прогоны
 анализа отзывов и их результаты (рейтинг, кол-во, позитив/негатив, темы —
